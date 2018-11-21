@@ -1,0 +1,1 @@
+cmd_/root/work/dd/iom_virtual_dd/iom_virtual_dd.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/work/dd/iom_virtual_dd/iom_virtual_dd.ko /root/work/dd/iom_virtual_dd/iom_virtual_dd.o /root/work/dd/iom_virtual_dd/iom_virtual_dd.mod.o ;  true

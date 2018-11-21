@@ -1,0 +1,1 @@
+cmd_/root/work/dd/iom_mydevice/iom_mydevice.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/work/dd/iom_mydevice/iom_mydevice.ko /root/work/dd/iom_mydevice/iom_mydevice.o /root/work/dd/iom_mydevice/iom_mydevice.mod.o ;  true
